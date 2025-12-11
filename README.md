@@ -19,6 +19,9 @@
 5.Я применила df.drop_duplicates(), чтобы убрать повторяющиеся строки
 6.df.dropna() удалил строки с пропущенными знаками как пробелы итд 
 7.Я преобразовала столбец с датой в формат datetime с помощью pd.to_datetime()
+8.Выводим таблицу через df.head()
+9.внедряем matplotlib.pyplot как библиотеку данных и seaborn для красивой визуализации.
+задаем стиль ggplot.
 
 График - 1 
 <img width="1077" height="807" alt="1" src="https://github.com/user-attachments/assets/15a76241-18c4-4e3a-9993-351f71863c53" />
